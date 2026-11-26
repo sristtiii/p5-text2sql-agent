@@ -1,0 +1,2 @@
+# Pinned dependencies, added as we use them.
+pytest==9.2.0
